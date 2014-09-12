@@ -3,4 +3,16 @@
   <groupId>cn.edu.sjtu</groupId>
   <artifactId>solrlearning</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.apache.lucene</groupId>
+  		<artifactId>lucene-core</artifactId>
+  		<version>4.7.2</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.apache.lucene</groupId>
+  		<artifactId>lucene-analyzers-common</artifactId>
+  		<version>4.7.2</version>
+  	</dependency>
+  </dependencies>
 </project>
